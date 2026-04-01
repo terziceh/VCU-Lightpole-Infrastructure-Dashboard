@@ -1,4 +1,5 @@
 # VCU Lightpole Infrastructure Dashboard
+![Lightpole Dashboard](assets/Lightpoleinfra.jpeg)
 
 ## 📊 Overview
 This project analyzes and visualizes campus light infrastructure data across two time periods (2016 vs 2025) using ArcGIS. The goal was to clean and integrate inconsistent datasets and build an interactive dashboard to support infrastructure insights and comparisons.
